@@ -31,6 +31,7 @@ class FilteredList extends Component {
   render(){
     return (
         <div className = "filter-list">
+			<h1>Produce Search</h1>
          
           /*TODO (FilteredList): Create a Dropdown Menu with three different menu options: Fruit, Vegetables, and All*/
           
